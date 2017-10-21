@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "dependencies": {
+    "preact": "^8.2.5",
+    "preact-router": "^2.5.7",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  }
+}
